@@ -86,7 +86,7 @@ public class MyBatisTest {
 			System.out.println(employee);
 		} finally {
 			openSession.close();
-			system.out.print("pull test");
+			System.out.print("pull test");
 		}
 
 	}
